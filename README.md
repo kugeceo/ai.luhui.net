@@ -30,17 +30,25 @@
 
 
 使用的技术和资源
+
 HTML5
+
 CSS3
+
 JavaScript
+
 jQuery
+
 Bootstrap
+
 Xenon UI Components
+
 Font Awesome
+
 Linecons
-开发人员
-Paler
-ChatGPT
+
+vue
+
 
 稿定AI，未来从这里看见
 
